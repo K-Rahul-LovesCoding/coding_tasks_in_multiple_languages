@@ -5,9 +5,9 @@ Just a simple place where I practice coding every day across different programmi
 ---
 
 ### 📂 Repository Structure
-*   [📂 C/](./C/) — Core logic and pointer practice
-*   [📂 Java/](./Java/) — Object-oriented challenges
-*   [📂 Python/](./Python/) — Clean syntax and scripting
+*   [📂 C/](./C/) — Studying in College 
+*   [📂 Java/](./Java/) — Preferred Personally
+*   [📂 Python/](./Python/) — Studied at School
 
 ---
 
